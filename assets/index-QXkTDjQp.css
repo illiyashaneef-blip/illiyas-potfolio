@@ -1,0 +1,1 @@
+.project-card{cursor:pointer;transition:all .3s}.project-card:hover{transform:translateY(-8px);box-shadow:0 10px 30px #1987544d;border-color:#20c997!important}@media (width<=768px){.project-card:hover{box-shadow:none;transform:none}}footer a:hover{transition:color .3s;color:#20c997!important}
