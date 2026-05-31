@@ -1,0 +1,26 @@
+{
+  "name": "haneef-potfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "boots": "^0.3.0",
+    "bootstrap": "^5.3.8",
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6",
+    "trap": "^0.4.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.2",
+    "vite": "^8.0.14"
+  }
+}
